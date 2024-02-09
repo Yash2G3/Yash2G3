@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash2g3&label=Profile%20views&color=0e75b6&style=flat" alt="yash2g3" /> </p>
 
-- 🔭 I’m currently working on **Austism Project**
+- 🔭 I’m currently working on **Fine Tuning LLMs**
 
 - 🌱 I’m currently learning **MySQL, competitve programming, Data Structres and Algorithms, Machine Learning**
 
